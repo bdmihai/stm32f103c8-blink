@@ -27,7 +27,8 @@
         "stdbool.h": "c",
         "stdint.h": "c",
         "printf.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "port.h": "c"
     },
     "Open files list": false,
     "Toggle terminal": false,
